@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "CS50 Finance",
+    "techStack": "Flask, Bootstrap, SQLite",
+    "description": "This is the problem set 9 from CS50 2021 and also it is my first web programming experience about HTML, CSS. It is a web application developed with Flask and allow user to 'buy' and 'sell' the stock with the help of the API provided by IEX",
+    "imgSrc": "/images/project1.jpg",
+    "href": "https://github.com/HEI204/CS50-pset9-Finance",
+    "website": "https://cs50-pset9-finance-production.up.railway.app/"
+  },
+  {
+    "id": 2,
+    "title": "ALE Shop",
+    "techStack": "Flask, Bootstrap, SQLite",
+    "description": "This is my final project for CS50 and also is my first web application built from sratch. It is a simple online shopping site using Flask to develop",
+    "imgSrc": "/images/project2.jpg",
+    "href": "https://github.com/HEI204/ALE-SHOP",
+    "website": "https://ale-shop-production.up.railway.app/"
+  },
+  {
+    "id": 3,
+    "title": "ALE Auction",
+    "techStack": "Django, Bootstrap, SQLite",
+    "description": "This is the project 2 (Commerce) for CS50's Web Programming with Python and JavaScript and the project assignment require to build a eBay-like e-commerce auction site with Django",
+    "imgSrc": "/images/project3.jpg",
+    "href": "https://github.com/HEI204/ALE-Auction",
+    "website": "https://ale-auction-production.up.railway.app/"
+  },
+  {
+    "id": 4,
+    "title": "ALE Network (Twitter-like web app)",
+    "techStack": "React, Django, Bootstrap, JWT auth, SQLite",
+    "description": "This is the latest web app that I build. It is the project 4 for CS50's Web Programming with Python and JavaScript and I try to use React JS, Django, JWT auth and etc to build a Twitter-like social network website for making posts and following users",
+    "imgSrc": "/images/project4.jpg",
+    "href": "https://github.com/HEI204/ALE-Network",
+    "website": "https://ale-network-production.up.railway.app/"
+  }
+]
