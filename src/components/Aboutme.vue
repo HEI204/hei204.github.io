@@ -14,10 +14,7 @@ const btnText = computed(() =>
     <div class="self-intro px-sm-2 px-md-5 pb-5 d-flex flex-column align-items-center">
         <SectionTitle title="About me" />
         <p class="mt-5">
-            I am a third-year computer science student at City University of Hong Kong with a strong interest in web
-            development. Through my coursework and personal projects, I have gained some experiences in various tech
-            stacks
-            including React, and Django.
+            I am passionate about Devops, with hands-on experience in web application development and data analysis. Through internships and mini projects, I've honed my skills in building web applications and extracting meaningful insights from data. 
         </p>
 
         <Transition>

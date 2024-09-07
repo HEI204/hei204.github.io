@@ -30,6 +30,18 @@ const skillset = [
 
 const selfLearningSkillset = [
     {
+        imgSrc: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original-wordmark.svg",
+        alt: "kubernetes",
+    },
+    {
+        imgSrc: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg",
+        alt: "terraform",
+    },
+    {
+        imgSrc: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg",
+        alt: "jenkins",
+    },
+    {
         imgSrc: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg",
         alt: "python",
     },

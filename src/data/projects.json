@@ -34,5 +34,14 @@
     "imgSrc": "/images/project4.jpg",
     "href": "https://github.com/HEI204/ALE-Network",
     "website": "https://ale-network-production.up.railway.app/"
+  },
+  {
+    "id": 5,
+    "title": "Human Tetris with Depression Level Detection (Final Year Project)",
+    "techStack": "Unity, MediaPipe, Python, Microsoft Azure, Terraform, Docker",
+    "description": "A pose mimicking game application that utilizes computer vision framework (MediaPipeUnityPlugin) to enable players to control a game character with a webcam. The pose and relevant data stored in Azure Table Storage via API with Azure Function and used to build a regression model for predicting user depression levels based on their body movements. Terraform is being used for managing and provisioning the necessary Azure resources for this project.",
+    "imgSrc": "/images/project5.png",
+    "href": "https://github.com/HEI204/FYP_HumanTetris",
+    "website": "https://drive.google.com/file/d/1eelbEgi3hfWF5EKEYrdn-idK4Ges9RRp/view?usp=drive_link"
   }
 ]
